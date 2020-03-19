@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="SeleniumExample" verbose="1" >
+    <test name="Example EDX test" >
+        <classes>
+            <class name="SeleniumExample">
+            </class>
+        </classes>
+    </test>
+</suite>
