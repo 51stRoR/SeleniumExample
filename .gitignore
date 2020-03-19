@@ -3,6 +3,5 @@
 *.iml
 out
 gen
-*.properties
 # Project exclude paths
 /target/
